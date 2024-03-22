@@ -53,7 +53,7 @@ Sur l'interface de jeu, les pièces seront représentées par des initiales. Les
 | Knight | N | 3 |
 | Bishop | B | 3 |
 | Queen | Q | 10 |
-| King | K | ratio |
+| King | K | / |
 |  |  | |
 | Prince | I | 6 |
 | Centaur | C | 7 |
